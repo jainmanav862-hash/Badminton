@@ -1,0 +1,6 @@
+{
+  "name": "Super Smash Arena: Badminton 1v1 & 2v2",
+  "description": "Olympic-grade 1v1 Singles & 2v2 Doubles Badminton game with 3D shuttlecock physics, responsive smash controls, animated cheering audience, real-time sound effects, and couch multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
